@@ -302,5 +302,3 @@ npm test
 - **OAuth Provider Verification**: In development mode, mock OAuth tokens are supported for fast automated testing; production deployment requires registering Client IDs in Google, Slack, and Discord developer consoles.
 - **Scheduled Cron Triggers**: Manual and API triggers are fully supported; recurring background cron triggers can be connected via BullMQ repeat options.
 - **Self-Hosted LLMs**: Currently supports OpenRouter and Google Gemini APIs; direct Ollama/vLLM endpoints can be connected as additional providers in `aiGeneratorService.js`.
-#   a g e n t f l o w - a i  
- 
