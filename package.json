@@ -1,0 +1,10 @@
+{
+  "name": "agentflow-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agentflow AI — Multi-agent workflow automation platform",
+  "scripts": {
+    "dev:client": "cd client && npm run dev",
+    "dev:server": "cd server && npm run dev"
+  }
+}
